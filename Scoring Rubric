@@ -1,0 +1,18 @@
+Flowers
+  Decayed fruits will always be pointed up, flowers are drooping down and white-ish.
+  Fruits are not considered flowers (would score N)
+  If living flowers present - stem will be covered in flowers, not completely sparse
+  Dead flowers (from previous year) - who cares? score N
+  If you can't tell definitively yes or no due to quality of photo, don't guess. Put A
+  If stalk is mostly empty and pods are dark and pointing upwards, most likely a N. But use judgement about A. 
+  
+Senesced
+    Be careful about species - some buds are dark and look like senesced flowers
+    If flowers are dead, considered no flowers not senesced
+    
+Whole plant
+    If you can see all the parts, lean towards whole plant (ie if the tips of the leaves are not visible)
+    In cases of flowers present - you need to consider that plant to be whole or not
+    In cases of flowers absent - if you can see at least one whole plant, consider whole
+    Close up of a multi-branched yucca - part of a plant
+    In cases where you can't tell if there are one or multiple plant, put partial.
