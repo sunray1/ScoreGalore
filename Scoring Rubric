@@ -1,18 +1,21 @@
 Flowers
-  Decayed fruits will always be pointed up, flowers are drooping down and white-ish.
-  Fruits are not considered flowers (would score N)
-  If living flowers present - stem will be covered in flowers, not completely sparse
-  Dead flowers (from previous year) - who cares? score N
-  If you can't tell definitively yes or no due to quality of photo, don't guess. Put A
-  If stalk is mostly empty and pods are dark and pointing upwards, most likely a N. But use judgement about A. 
+  Decayed fruits will always be pointed up, flowers are typically drooping down and creamy to white in color
+  Fruits are "pointing up", darker in color and usually more sparse on the stalk.  
+  If living flowers present - stem will be covered in flowers, not sparse
+  We decided to change scoring to ask "Are there non-senesced flowers visible on the plant (Y/N)"
+  If you can't tell definitively yes or no due to quality of photo or distance of plant from photographer
+  (some are blurry or too far away), don't guess. Put A (for ambiguous)
+  Be careful about species - some buds are dark and look like senesced flowers
+  If there is ONE non-senesced flower visible on the plant, score this as YES.
   
-Senesced
-    Be careful about species - some buds are dark and look like senesced flowers
-    If flowers are dead, considered no flowers not senesced
-    
 Whole plant
-    If you can see all the parts, lean towards whole plant (ie if the tips of the leaves are not visible)
-    In cases of flowers present - you need to consider that plant to be whole or not
-    In cases of flowers absent - if you can see at least one whole plant, consider whole
-    Close up of a multi-branched yucca - part of a plant
-    In cases where you can't tell if there are one or multiple plant, put partial.
+    In cases where all most of all the parts of the plant are visible, lean towards whole plant
+    An example is where all leaves are partially visible, score as "whole plant"
+    It is more critical to carefully score whole plants where flowers are absent but try to score all correctly
+    In some corner cases, the very top of a flower stalk may not be photographed. 
+    We discussed this corner case, and we decided if the stalk is clearly dead, then it is ok to score 
+    whole plant even if there is a small missing top part of the stalk.
+    In cases of flowers absent - if you can see at least one whole plant in the photograph, consider it a whole plant
+    In cases where there is a close up of a multi-branched yucca - that is definitely "part of a plant". 
+    If you cannot tell if the plant is "multibranched" or a single plant, score this as ambiguous rather than a wild guess. 
+   
